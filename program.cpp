@@ -1,3 +1,26 @@
+//requirements
+//-vector & template 
+//class structure
+//1. create class template-memory calculate
+//attributes
+//1. id   
+//2. name
+// methods:
+//Implement the following:
+//a constructor to initialize the id and name
+//a method to display student details
+//2. task performed
+//-Add a student: Use push_back() method to add a student to the vector.
+//-Display all students: Use a for loop to iterate through the vector and display the details of each student.
+//-Remove a student by id: search the vector for the student with the given id and remove it.
+//search for a student by id: search the vector for the student with the given id and display its details.
+//requirements:
+//createw a student maanagement system that performs the followingoperations:
+//1. add a student
+//2. display all students
+//3. remove a student by id
+//4. search for a student by id
+
 #include<iostream>
 #include<vector>
 using namespace std;
